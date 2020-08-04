@@ -1,5 +1,5 @@
 
-![](./home.jpg)
+![](https://github.com/NeoYo/NeoYo/blob/master/home.jpg)
 
 <!--
 **NeoYo/NeoYo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
