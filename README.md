@@ -1,3 +1,4 @@
+<img src="https://github.com/NeoYo/NeoYo/blob/master/home.jpg" width="570px" height="321px"></img>
 
 ![](https://github.com/NeoYo/NeoYo/blob/master/home.jpg)
 
