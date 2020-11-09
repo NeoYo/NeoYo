@@ -1,6 +1,11 @@
 <img src="https://github.com/NeoYo/NeoYo/blob/master/home.jpg" width="570px" height="321px"></img>
 
 
+热烈欢迎，您的光临！！
+
+Warmly welcome your presence!!
+
+如果您想了解更多，可以逛逛[我的博客](https://juejin.im/user/536217405892717/posts?sort=popular)哈
 
 <!--
 **NeoYo/NeoYo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
