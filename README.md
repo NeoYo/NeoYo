@@ -5,7 +5,7 @@
 
 Warmly welcome your presence!!
 
-如果您想了解更多，可以逛逛[我的博客](https://juejin.im/user/536217405892717/posts?sort=popular)哈
+如果您想了解更多，可以逛逛[我的博客](https://juejin.im/user/536217405892717/posts?sort=newest)哈
 
 <!--
 **NeoYo/NeoYo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
