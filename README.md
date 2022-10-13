@@ -1,6 +1,6 @@
 热烈欢迎，您的光临！！
 
-![Uploading WechatIMG17.jpeg…]()
+![](./skywhell.jpeg)
 
 Warmly welcome your presence!!
 
