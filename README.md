@@ -1,6 +1,3 @@
-<img src="https://github.com/NeoYo/NeoYo/blob/master/home.jpg" width="570px" height="321px"></img>
-
-
 热烈欢迎，您的光临！！
 
 Warmly welcome your presence!!
